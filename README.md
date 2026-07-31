@@ -11,6 +11,7 @@ Present actionable insights using visualizations.
 
 
 Exploratory Data Analysis (EDA)
+
 Survival by Gender         #count plot 
 <img width="797" height="700" alt="image" src="https://github.com/user-attachments/assets/1421591a-220f-45d1-9488-b61f5ab6ea5b" />
 
@@ -33,14 +34,36 @@ Embarked Town
 <img width="1077" height="632" alt="image" src="https://github.com/user-attachments/assets/01365235-3471-43b0-9347-baec5f974487" />
 
 
+Key Insights📈 
+
+1.Female passengers had a significantly higher survival rate than males.
+2.First Class passengers had the highest chance of survival.
+3.Most passengers embarked from Southampton.
+4.Younger passengers tended to have better survival rates.
+5.Higher ticket fares were generally associated with higher survival.
+
+#DatasetSource:🚢📈
+
+Seaborn Titanic Dataset🚢
+Records: 891 passengers
+Features: 15 columns
+
+#Data Cleaning
+
+Checked missing values
+Removed null values
+Removed duplicate records
+Verified data types
+Prepared dataset for analysis
+
 Tools & Technologies  #source of equipments
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Power BI
-Power Query
-DAX
+🐍 Python
+📊 Power BI
+🐼 Pandas
+📈 Matplotlib
+🌊 Seaborn
+🔢 NumPy
+   
+
+
