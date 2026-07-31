@@ -64,6 +64,40 @@ Tools & Technologies  #source of equipments
 📈 Matplotlib
 🌊 Seaborn
 🔢 NumPy
+
+#Dashboard Preview
+<img width="1172" height="667" alt="image" src="https://github.com/user-attachments/assets/da3d52d1-77e7-4dd0-a09c-6da721639826" />
+
    
+## 📊 Dashboard Features
 
+- 📌 **KPI Cards**
+  - 👥 Total Passengers
+  - ❤️ Total Survivors
+  - 📉 Survival Rate
+  - 🎂 Average Age
+  - 💰 Average Fare
 
+- 🚢 **Passenger Class-wise Analysis**
+  - Compare survival across First, Second, and Third Class.
+
+- 👨‍👩‍👧 **Gender-wise Survival Analysis**
+  - Visualize survival trends for male and female passengers.
+
+- 🎂 **Age Distribution Analysis**
+  - Explore passenger age distribution and survival patterns.
+
+- 💰 **Fare Distribution Analysis**
+  - Analyze ticket fare ranges and their relationship with survival.
+
+- ⚓ **Embarkation Analysis**
+  - Compare passenger counts and survival by embarkation port (C, Q, S).
+
+- 📈 **Survival Trend Visualizations**
+  - Interactive charts highlighting survival statistics and comparisons.
+
+- 🎛️ **Interactive Slicers & Filters**
+  - 👤 Gender
+  - 🚢 Passenger Class
+  - ⚓ Embarkation Port
+  - ❤️ Survival Status
