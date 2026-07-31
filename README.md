@@ -32,3 +32,15 @@ Embarked Town
 #survival by age & Embarked Town   #strip plot
 <img width="1077" height="632" alt="image" src="https://github.com/user-attachments/assets/01365235-3471-43b0-9347-baec5f974487" />
 
+
+Tools & Technologies  #source of equipments
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Power BI
+Power Query
+DAX
